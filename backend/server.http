@@ -1,0 +1,9 @@
+POST http://localhost:3000/register 
+Content-Type: application/json
+
+{
+  "employee_name": "Thirumala",
+  "username": "thirumala",
+  "password": "securepassword123",
+  "position": "manager"
+}
